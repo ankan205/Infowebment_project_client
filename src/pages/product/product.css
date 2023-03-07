@@ -1,0 +1,44 @@
+.form-wrapper {
+
+}
+
+.input-wrapper {
+    margin: 2%;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+input, textarea {
+    margin-bottom: 2%;
+    margin-left: 10px;
+    border-radius: 1rem;
+    border: 1px solid black;
+    padding: 3px 12px;
+}
+
+.submit-button {
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    padding: 9px 30px;
+    color: black;
+    background-color: #eed8ff;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: black;
+}
