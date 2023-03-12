@@ -29,6 +29,7 @@ const Product=({product})=>{
                 <p className="productQuantity">
                    {product.quantity}
                 </p>
+
             </div>
         </>
     )
