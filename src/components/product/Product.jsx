@@ -24,10 +24,10 @@ const Product=({product})=>{
                    {product.desc}
                 </p>
                 <p className="productPrice">
-                    {product.price}
+                   Price: {product.price}
                 </p>
                 <p className="productQuantity">
-                   {product.quantity}
+                   Quantity: {product.quantity}
                 </p>
 
             </div>

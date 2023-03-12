@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import VideoList from "../../components/videolist/Videolist";
 
-// import './home.css';
+import './videoList.css';
 import axios from "axios";
 import { useLocation } from "react-router-dom";
 

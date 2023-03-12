@@ -92,14 +92,14 @@ const SingleProduct=()=>{
             </h1>
 
             <p className="singlePostDesc">
-                {desc}
+                Description: {desc}
                </p>
 
                <p className="singlePostQuantity">
-                {quantity}
+                Quantity: {quantity}
                </p>
                <p className="singlePostPrice">
-                {price}
+                Price: {price}
                </p>
 
 

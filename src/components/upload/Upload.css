@@ -53,3 +53,26 @@
     text-transform: capitalize;
     text-align: center;
   }
+
+
+.header {
+  justify-content: center;
+    display: flex;
+    font-size: 40px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+
+button {
+  margin: 15px;
+}

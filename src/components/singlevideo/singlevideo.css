@@ -7,3 +7,10 @@ video::-internal-media- controls-download-button { display:none;
 
 panel { width: calc(100% + 30px); /* Adjust as needed */
 }
+
+.video {
+    margin: 25px;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px 20px;
+}

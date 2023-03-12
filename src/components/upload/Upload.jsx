@@ -87,12 +87,12 @@ class Upload extends React.Component {
           <div className="form-group">
             <ToastContainer />
           </div>
-          <h4>Upload Video</h4>
+          <h4 className='header'>Upload Video</h4>
           <hr className="my-4" />
 
           <form method="post" name="videoUpload" action="/api/upload" id="#" encType="multipart/form-data">
             <div className="form-group files">
-              <label>Upload Your Videos Here</label>
+              <label className='title'>Upload Your Videos Here</label>
               <input
                 type="file"
                 name="file"

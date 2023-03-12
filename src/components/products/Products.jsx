@@ -1,5 +1,6 @@
 import React from "react";
 import Product from "../product/Product";
+import './products.css'
 // import './post.css';
 
 const products =({products})=>{
